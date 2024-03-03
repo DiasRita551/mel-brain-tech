@@ -1,7 +1,7 @@
 {
   "name": "mel-brain-tech",
   "description": "mel-brain-tech",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -23,6 +23,7 @@
     "react-router-dom": "^6.3.0"
   },
   "repository": {
+    "type": "git",
     "url": "https://github.com/DiasRita551/mel-brain-tech"
   },
   "scripts": {
